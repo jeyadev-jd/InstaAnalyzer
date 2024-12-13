@@ -17,5 +17,29 @@
 ## 🚀 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/InstaAnalyzer.git
+   In Terminal:
+
+       git clone https://github.com/your_username/InstaAnalyzer.git
+
+2.Navigate to the directory:
+   
+      cd InstaAnalyzer
+
+3.Install the required libraries:
+    
+    pip install instaloader rich
+
+## 🛠️ Usage
+
+1.Open the 'insta_analyzer.py' file and enter your Instagram username and password.
+
+2.Run the script:
+python insta_analyzer.py
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## 📫 Contact
+
+For any inquiries, please reach out to jeyadev2006@gmail.com.
