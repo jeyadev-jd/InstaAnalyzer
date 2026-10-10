@@ -46,3 +46,15 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## 📫 Contact
 
 For any inquiries, please reach out to jeyadev2006@gmail.com.
+
+---
+
+## Author
+
+**Jeyadev R** · AI/ML Engineer & Full-Stack Developer · Chennai, India
+
+- Portfolio: [jeyadev.dev](https://jeyadev.dev/projects/instaanalyzer)
+- GitHub: [@jeyadev-jd](https://github.com/jeyadev-jd)
+- LinkedIn: [r-jeyadev](https://www.linkedin.com/in/r-jeyadev)
+
+If this project is useful to you, a ⭐ on the repo helps others find it.
